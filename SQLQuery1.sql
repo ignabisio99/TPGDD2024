@@ -59,8 +59,6 @@ BEGIN
         LOCALIDAD NVARCHAR(255)
     );
     
-    -- Agrega aquí las definiciones para las nuevas tablas
-
     CREATE TABLE [QUICK_SORT].[PAGO] (
         PAGO_ID INTEGER PRIMARY KEY,
         TICKET_NRO DECIMAL(18,0) NOT NULL,
