@@ -5,4 +5,4 @@ Integrantes:
   -Bisio, Ignacio - 1726675
   -Gerez, Martin - 1416534
   -Panduro Calixto, Giancarlo - 1405627
-Email del responsable:
+Email del responsable: lsosacuenca@frba.utn.edu.ar
